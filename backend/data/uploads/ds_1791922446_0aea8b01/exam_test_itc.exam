@@ -1,0 +1,15 @@
+[Exams:3]
+CS101 180
+CS102 180
+MA201 180
+[Periods:2]
+P1 0
+P2 0
+[Rooms:2]
+R1 100 0
+R2 50 0
+[Enrollments]
+s1 CS101
+s1 CS102
+s2 CS101
+s2 MA201

@@ -1,0 +1,14 @@
+[Exams:4]
+E1 180
+E2 180
+E3 180
+E4 180
+[Enrollments]
+S1 E1
+S1 E2
+S2 E2
+S2 E3
+S3 E3
+S3 E4
+S4 E1
+S4 E4

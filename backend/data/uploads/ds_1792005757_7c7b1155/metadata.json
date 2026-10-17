@@ -1,0 +1,18 @@
+{
+  "dataset_id": "ds_1792005757_7c7b1155",
+  "name": "Demonstration University Examination Dataset",
+  "format_type": "csv",
+  "statistics": {
+    "num_examinations": 6,
+    "num_students": 12,
+    "num_periods": 3,
+    "num_rooms": null,
+    "num_conflicts": 10,
+    "conflict_density": 0.6667,
+    "total_enrollments": 24
+  },
+  "files_stored": {
+    "exam_file": "exam_simple_registrations.csv"
+  },
+  "warnings": []
+}

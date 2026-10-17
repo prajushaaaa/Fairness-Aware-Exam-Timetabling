@@ -1,0 +1,18 @@
+{
+  "dataset_id": "ds_1791922714_bd61aaf3",
+  "name": "ITC2007 Test Instance",
+  "format_type": "itc2007",
+  "statistics": {
+    "num_examinations": 3,
+    "num_students": 3,
+    "num_periods": 4,
+    "num_rooms": 2,
+    "num_conflicts": 3,
+    "conflict_density": 1.0,
+    "total_enrollments": 6
+  },
+  "files_stored": {
+    "exam_file": "exam_itc_test.exam"
+  },
+  "warnings": []
+}

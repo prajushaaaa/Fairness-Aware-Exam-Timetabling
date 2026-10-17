@@ -1,0 +1,19 @@
+{
+  "dataset_id": "ds_1791994329_08f873da",
+  "name": "registrations",
+  "format_type": "csv",
+  "statistics": {
+    "num_examinations": 3,
+    "num_students": 2,
+    "num_periods": null,
+    "num_rooms": 2,
+    "num_conflicts": 2,
+    "conflict_density": 0.6667,
+    "total_enrollments": 4
+  },
+  "files_stored": {
+    "exam_file": "exam_registrations.csv",
+    "room_file": "room_campus_rooms.csv"
+  },
+  "warnings": []
+}

@@ -1,0 +1,20 @@
+{
+  "dataset_id": "ds_1791922714_cecd66ff",
+  "name": "hec-s-92",
+  "format_type": "carter",
+  "statistics": {
+    "num_examinations": 3,
+    "num_students": 2,
+    "num_periods": 12,
+    "num_rooms": null,
+    "num_conflicts": 2,
+    "conflict_density": 0.6667,
+    "total_enrollments": 4
+  },
+  "files_stored": {
+    "exam_file": "exam_hec-s-92.crs",
+    "stu_file": "stu_hec-s-92.stu",
+    "room_file": "room_hec-s-92.slo"
+  },
+  "warnings": []
+}

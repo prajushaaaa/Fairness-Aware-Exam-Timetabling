@@ -1,0 +1,18 @@
+{
+  "dataset_id": "ds_1791950965_d00e9b3f",
+  "name": "../../evil_test",
+  "format_type": "custom",
+  "statistics": {
+    "num_examinations": 2,
+    "num_students": 1,
+    "num_periods": null,
+    "num_rooms": null,
+    "num_conflicts": 1,
+    "conflict_density": 1.0,
+    "total_enrollments": 2
+  },
+  "files_stored": {
+    "stu_file": "stu_evil_test.stu"
+  },
+  "warnings": []
+}

@@ -1,0 +1,18 @@
+{
+  "dataset_id": "ds_1791950965_1882dd9d",
+  "name": "cycle4",
+  "format_type": "itc2007",
+  "statistics": {
+    "num_examinations": 4,
+    "num_students": 4,
+    "num_periods": null,
+    "num_rooms": null,
+    "num_conflicts": 4,
+    "conflict_density": 0.6667,
+    "total_enrollments": 8
+  },
+  "files_stored": {
+    "exam_file": "exam_cycle4.exam"
+  },
+  "warnings": []
+}

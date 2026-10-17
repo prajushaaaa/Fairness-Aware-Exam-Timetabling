@@ -1,0 +1,18 @@
+{
+  "dataset_id": "ds_1791923740_108e6579",
+  "name": "min",
+  "format_type": "itc2007",
+  "statistics": {
+    "num_examinations": 1,
+    "num_students": 1,
+    "num_periods": null,
+    "num_rooms": null,
+    "num_conflicts": 0,
+    "conflict_density": 0.0,
+    "total_enrollments": 1
+  },
+  "files_stored": {
+    "exam_file": "exam_min.exam"
+  },
+  "warnings": []
+}

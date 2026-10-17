@@ -1,0 +1,16 @@
+exam_id,exam_name,department
+EX101,Data Structures & Algorithms,Computer Science
+EX102,Operating Systems,Computer Science
+EX103,Database Management Systems,Computer Science
+EX104,Artificial Intelligence,Computer Science
+EX105,Web Technologies,Information Technology
+EX106,Computer Networks,Information Technology
+EX107,Cloud Computing,Information Technology
+EX108,Cyber Security,Information Technology
+EX109,Digital Signal Processing,Electrical Engineering
+EX110,Control Systems,Electrical Engineering
+EX111,Microprocessors & Microcontrollers,Electrical Engineering
+EX112,Power Electronics,Electrical Engineering
+EX113,Thermodynamics,Mechanical Engineering
+EX114,Fluid Mechanics,Mechanical Engineering
+EX115,Theory of Machines,Mechanical Engineering

@@ -1,0 +1,18 @@
+{
+  "dataset_id": "ds_1792041182_1227438d",
+  "name": "Synthetic Dataset \u2014 Demonstration University",
+  "format_type": "csv",
+  "statistics": {
+    "num_examinations": 6,
+    "num_students": 12,
+    "num_periods": 2,
+    "num_rooms": null,
+    "num_conflicts": 10,
+    "conflict_density": 0.6667,
+    "total_enrollments": 24
+  },
+  "files_stored": {
+    "exam_file": "exam_simple_registrations.csv"
+  },
+  "warnings": []
+}

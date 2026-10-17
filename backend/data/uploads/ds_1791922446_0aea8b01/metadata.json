@@ -1,0 +1,18 @@
+{
+  "dataset_id": "ds_1791922446_0aea8b01",
+  "name": "Curl Test ITC2007",
+  "format_type": "itc2007",
+  "statistics": {
+    "num_examinations": 3,
+    "num_students": 2,
+    "num_periods": 2,
+    "num_rooms": 2,
+    "num_conflicts": 2,
+    "conflict_density": 0.6667,
+    "total_enrollments": 4
+  },
+  "files_stored": {
+    "exam_file": "exam_test_itc.exam"
+  },
+  "warnings": []
+}

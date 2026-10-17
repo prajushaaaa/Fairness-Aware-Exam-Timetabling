@@ -1,0 +1,15 @@
+# Flask Web Framework & Utilities
+Flask>=3.0.0
+flask-cors>=4.0.0
+
+# Operations Research & Optimization (PuLP with bundled CBC solver)
+pulp>=2.8.0
+
+# Data Processing & Analysis
+pandas>=2.2.0
+
+# Plotting & Visualization
+matplotlib>=3.8.0
+
+# Testing
+pytest>=8.0.0

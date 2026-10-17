@@ -1,0 +1,18 @@
+{
+  "dataset_id": "ds_1791994329_cd5a01f0",
+  "name": "Simple Demo Dataset",
+  "format_type": "csv",
+  "statistics": {
+    "num_examinations": 3,
+    "num_students": 3,
+    "num_periods": 4,
+    "num_rooms": null,
+    "num_conflicts": 3,
+    "conflict_density": 1.0,
+    "total_enrollments": 6
+  },
+  "files_stored": {
+    "exam_file": "exam_simple_demo.csv"
+  },
+  "warnings": []
+}
